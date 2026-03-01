@@ -1,0 +1,19 @@
+{
+  "name": "site__target",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktarYakimuk/site__target.git"
+  },
+  "author": "Viktor Yakimuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktarYakimuk/site__target/issues"
+  },
+  "homepage": "https://github.com/ViktarYakimuk/site__target#readme"
+}
